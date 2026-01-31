@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/contentText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/message_system_background"
+        android:textColor="#888"
+        android:padding="12dp 24dp"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:lineSpacingMultiplier="1.3" />
+
+</LinearLayout>

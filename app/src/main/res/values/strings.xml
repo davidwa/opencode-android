@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OpenCode</string>
+    <string name="hint_message">Ask me to code something...</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_clear">Clear Chat</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_ready">Ready</string>
+    <string name="notification_title">OpenCode</string>
+    <string name="notification_text">AI agent is running</string>
+</resources>
