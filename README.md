@@ -8,7 +8,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/mulkymalikuldhrs/opencode-android?style=social)](https://github.com/mulkymalikuldhrs/opencode-android/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/mulkymalikuldhrs/opencode-android?style=social)](https://github.com/mulkymalikuldhrs/opencode-android/issues)
 [![GitHub Issues](https://img.shields.io/github/issues-closed/mulkymalikuldhrs/opencode-android?style=social)](https://github.com/mulkymalikuldhrs/opencode-android/issues?q=is%3Aopen+is%3Atrue)
-[![Download](https://img.shields.io/badge/download-apk-brightgreen)](https://github.com/mulkymalikuldhrs/opencode-android/releases/latest/download/opencode-android.apk)
 
 **⚠️ Independent OpenCode Android Client - Community Build**
 
@@ -298,7 +297,7 @@ class Config {
 ### 📧 Contact
 - **Email:** mulkymalikuldhrs@email.com
 - **GitHub:** [@mulkymalikuldhrs](https://github.com/mulkymalikuldhrs)
-- **Social:** [@mulkymalikuldhrs](https://x.com/mulkymalikuldhrs)
+- **Social:** [@mulkymalikuldhr](https://instagram.com/mulkymalikuldhr) (FB/IG)
 
 ### 🙏 Acknowledgments
 
@@ -314,8 +313,6 @@ This project is based on and inspired by:
 ## 🌐 Links
 
 - **GitHub Repository:** https://github.com/mulkymalikuldhrs/opencode-android
-- **Official Website:** https://opencode-android.app
-- **Documentation:** https://docs.opencode-android.app
 - **OpenCode Docs:** https://opencode.ai/docs
 - **OpenCode GitHub:** https://github.com/anomalyco/opencode
 - **Bug Tracker:** https://github.com/mulkymalikuldhrs/opencode-android/issues
@@ -352,12 +349,7 @@ SOFTWARE.
 
 ---
 
-## 📱 Download
-
-### APK
-[Download APK (v1.0.0)](https://github.com/mulkymalikuldhrs/opencode-android/releases/download/v1.0.0/app-release-unsigned.apk)
-
-### Source Code
+## 📱 Source Code
 ```bash
 git clone https://github.com/mulkymalikuldhrs/opencode-android.git
 ```
@@ -392,7 +384,7 @@ If you find OpenCode Android useful, please give it a star on GitHub!
 
 [![Stargazers repo mulkymalikuldhrs/opencode-android](https://reporoster.star-history.com/star/mulkymalikuldhrs/opencode-android)](https://github.com/mulkymalikuldhrs/opencode-android/stargazers)
 
-Made with ❤️ by [Mulky Malikul Dhaher](https://github.com/mulkymalikuldhrs)
+Made with ❤️ by [Mulky Malikul Dhaher](https://github.com/mulkymalikuldhrs) <!-- [Portfolio](https://portomulky.vercel.app) -->
 
 ---
 
