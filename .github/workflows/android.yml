@@ -14,6 +14,6 @@ jobs:
     - name: setup jdk
       uses: actions/setup-java@v1
       with:
-        java-version: 21
+        java-version: 20
     - name: Build Release APK
       run: ./build.sh
