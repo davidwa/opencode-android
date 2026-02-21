@@ -38,6 +38,8 @@ jobs:
           distribution: 'zulu' # See 'Supported distributions' for available options
           java-version: '21'
          # cache: 'gradle'
+      - name: run build.sh
+        run: ./build.sh
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
 
