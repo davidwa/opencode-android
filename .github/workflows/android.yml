@@ -35,17 +35,12 @@ jobs:
       - name: Set Up JDK
         uses: actions/setup-java@v5
         with:
-          distribution: 'zulu' # See 'Supported distributions' for available options
+          distribution: 'zulu'
           java-version: '21'
-         # cache: 'gradle'
-    #  - name: run build.sh
-     #   run: ./build.sh
+          cache: 'gradle'
+
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
-
-      # Run Build Project
-      - name: Build gradle project
-        run: ./gradlew build --debug
 
       # Create APK Debug
       - name: Build apk debug project (APK) - ${{ env.main_project_module }} module
@@ -53,7 +48,7 @@ jobs:
 
       # Create APK Release
       - name: Build apk release project (APK) - ${{ env.main_project_module }} module
-        run: ./gradlew assemble
+        run: ./gradlew assembleRelease
 
       # Create Bundle AAB Release
       # Noted for main module build [main_project_module]:bundleRelease
