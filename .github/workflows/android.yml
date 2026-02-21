@@ -36,8 +36,8 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: 'zulu' # See 'Supported distributions' for available options
-          java-version: '17'
-          cache: 'gradle'
+          java-version: '21'
+         # cache: 'gradle'
       - name: setup gradle
         run: gradle wrapper --gradle-version 8.2
       - name: Change wrapper permissions
