@@ -32,7 +32,7 @@ echo ""
 # Download gradle wrapper if needed
 if [ ! -f "gradlew" ]; then
     echo "Setting up Gradle wrapper..."
-    gradle wrapper --gradle-version 8.2
+    gradle wrapper --gradle-version 9.3.1
 fi
 
 # Make gradlew executable
